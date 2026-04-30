@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.jpeg" alt="Brewstack Labs Banner" width="60%">
+<img src="../assets/logo.png" alt="Brewstack Labs Banner" width="60%">
 
 # ☕ Brewing Digital Excellence
 
